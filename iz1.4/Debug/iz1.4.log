@@ -1,0 +1,4 @@
+﻿  iz1.4.cpp
+C:\Users\thest\Downloads\lab prog\lab7\iz1.4\iz1.4.cpp(10,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\thest\Downloads\lab prog\lab7\iz1.4\iz1.4.cpp(14,9): warning C4244: return: преобразование "__int64" в "float", возможна потеря данных
+  iz1.4.vcxproj -> C:\Users\thest\Downloads\lab prog\lab7\iz1.4\Debug\iz1.4.exe
